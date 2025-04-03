@@ -1,11 +1,16 @@
 h1 {
     font-size: 140px;
     text-align: center;
+    
 }
 
 h2 {
     font-size: 50px;
     text-align: center;
+    font-family: "Alegreya SC", serif;
+    font-weight: 500;
+    font-style: normal ;
+
 }
 p {
    font-size: 20px;
@@ -20,7 +25,7 @@ p {
 
 .startButton{
   border-radius: 12px;
-  background-color: rgb(248, 97, 248); /* Green */
+  background-color: rgb(235, 93, 235); /* Green */
   border: 2px solid black;
   color: white;
   text-align: center;
@@ -36,7 +41,7 @@ p {
   }
 
   .body1 {
-    background-image: linear-gradient(to bottom right, red, yellow);
+    background-image: linear-gradient(to bottom, rgba(253, 25, 166, 0.151), rgba(255, 237, 72, 0.705));
     font-family:'Courier New';
     font-weight: bold;
     background-repeat: no-repeat;
