@@ -437,5 +437,5 @@ function timeUpdate(){
 setInterval(timeUpdate, 1000);
 
 function back(){
-    window.location.href = 'startPage.html';
+    window.location.href = 'index.html';
 }
